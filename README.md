@@ -101,8 +101,7 @@ InsightFlow/
 ├── .env.example
 └── README.md
 ```
-<h3>Use Cases<h3>
-  <li>Automated Visualization: Generate interactive charts and graphs from uploaded datasets.</li>
-  <li>AI-Powered Data Exploration: Leverage LangGraph agents and Gemini API to automate data processing and assist with data analysis.</li>
-  <li>Business Analytics: Analyze sales, revenue, and customer data to identify trends and support business decisions.</li>
-</h3>
+<h3>Use Cases</h3>
+<li>Automated Visualization: Generate interactive charts and graphs from uploaded datasets.</li>
+<li>AI-Powered Data Exploration: Leverage LangGraph agents and Gemini API to automate data processing and assist with data analysis.</li>
+<li>Business Analytics: Analyze sales, revenue, and customer data to identify trends and support business decisions.</li>
